@@ -18,7 +18,7 @@ website:
       - text: Talks
         href: talks.qmd  
       - text: Blog posts
-        href: blog.qmd
+        href: blog.qmd## 
       #- text: Publications
       #  href: publications.qmd  
     right:
